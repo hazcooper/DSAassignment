@@ -1,0 +1,21 @@
+ShopNumber,ShopName,Category,Location,Rating
+101,John's Bakery,Bakery,West Wing,4
+102,ElectroWorld,Electronics,East Wing,5
+103,Readers' Corner,Books,North Wing,3
+104,GreenGrocers,Fresh Produce,South Wing,4
+105,Toy Universe,Toys,West Wing,5
+106,Style Loft,Clothing,East Wing,4
+107,Healthy Potion,Pharmacy,North Wing,3
+108,QuickFix,Hardware,West Wing,2
+109,House Decors,Home Decor,South Wing,5
+110,Food Fiesta,Restaurant,East Wing,4
+111,Cake Bliss,Bakery,South Wing,3
+112,Gadget Galaxy,Electronics,West Wing,4
+113,Literature Love,Books,East Wing,4
+114,VeggieMight,Fresh Produce,North Wing,5
+115,Toy Treasures,Toys,East Wing,3
+116,Fashionista,Clothing,South Wing,5
+117,CureAll,Pharmacy,West Wing,4
+118,Builder's Buddy,Hardware,North Wing,2
+119,Homey Designs,Home Decor,West Wing,5
+120,Global Tastes,Restaurant,North Wing,4

@@ -1,9 +1,9 @@
 from DSALinkedList import DSALinkedList
 
 class DSAGraphNode:
-    def __init__(self, shopNumber, shopName, category, location, rating):
-        self.shopNumber = shopNumber
+    def __init__(self, shopName=None, shopNumber=None, category=None, location=None, rating=None):
         self.shopName = shopName
+        self.shopNumber = shopNumber
         self.category = category
         self.location = location
         self.rating = rating
@@ -11,7 +11,7 @@ class DSAGraphNode:
         self.visited = False
 
     # Getter methods
-    #hello testing git
+    
 
     
     def get_shopNumber(self):
